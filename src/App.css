@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Mogra';
+  src: url('./assets/fonts/Mogra-Regular.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+.mogra-font {
+  font-family: 'Mogra', cursive;
+}
+
+.sansitaText {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 200%;
+  font-size: medium;
+}
+
+.link {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
